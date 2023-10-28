@@ -1,6 +1,6 @@
 # sql-challenge
 
-UCSD Data Science Bootcamp Module 9 Challenge
+**UCSD Data Science Bootcamp Module 9 Challenge**
 
 ## Code Sources and Locations:
 
